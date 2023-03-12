@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Phuc (Felix)</h1>
+<h1 align="center">What's up 👋, I'm Dung (Pain)</h1>
 <h3 align="center">A passionate Data Analyst and Developer from Vietnam.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
 
 - 🔭 I’m currently working on my own E-commerce project :D
 
-- 🌱 I’m currently learning **MySQL and Java**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Database, MySQL**
 
-- 📫 How to reach me **tranhoangphuc2001@gmail.com**
+- 📫 How to reach me **ngtridung1999@gmail.com**
 
-- ⚡ Hobbies **I love basketball and music!**
+- ⚡ Hobbies **I love soccer and music!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
