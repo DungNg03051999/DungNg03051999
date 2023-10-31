@@ -1,4 +1,4 @@
-<h1 align="center">What's up 👋, I'm Dung (Pain)</h1>
+<h1 align="center">What's up 👋, I'm Dung (Shelby)</h1>
 <h3 align="center">A passionate Data Analyst and Developer from Vietnam.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/394112/screenshots/14799647/media/62b03574edf6b11d5ecc9dc0d4bc5756.jpg">
